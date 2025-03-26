@@ -5,3 +5,4 @@
 
 // console.log(`Hello my name is ${name} and I have ${repocount} repositories on GitHub.`);
 
+// was not complete attentive
